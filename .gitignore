@@ -1,0 +1,8 @@
+*.log
+_x*/
+_x/
+build_dir*/
+.ipcache/
+.run/
+host
+xilinx_u250*
